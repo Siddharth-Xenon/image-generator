@@ -109,7 +109,7 @@ class ControlNet:
 # Example usage
 # api_key = "dPUaQdPuy24XCdSnWS9Bkqhz1V6GKo8HygYcTMnj8vLF3hKPr5bdOU6O3LD2"
 # prompt_text = "roman man on statue"
-# image_url = "https://storage.googleapis.com/rimorai_bucket1/%23OutlineImages/c83fbd25-b885-4f01-bc55-561ccb0b4e7c_Capture.JPG"
+# image_url = ""
 
 # extractor = ControlNet(api_key)
 # extractor.process_request(prompt_text, image_url)
